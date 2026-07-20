@@ -100,25 +100,25 @@ http://localhost:5000
 
 # 🐳 Docker Deployment
 
-## Build Docker Image
+## 1.Build Docker Image
 
 docker build -t ai-chatbot .
 
 ---
 
-## Verify Docker Image
+## 2.Verify Docker Image
 
 docker images
 
 ---
 
-## Run Docker Container
+## 3.Run Docker Container
 
 docker run -d -p 5000:5000 --name ai-chatbot-container ai-chatbot
 
 ---
 
-## Verify Running Container
+## 4.Verify Running Container
 
 docker ps
 
@@ -129,25 +129,25 @@ xxxxxxxxxxxx   ai-chatbot   Up           0.0.0.0:5000->5000/tcp
 
 ---
 
-## View Container Logs
+## 5.View Container Logs
 
 docker logs ai-chatbot-container
 
 ---
 
-## Stop Container
+## 6.Stop Container
 
 docker stop ai-chatbot-container
 
 ---
 
-## Remove Container
+## 7.Remove Container
 
 docker rm ai-chatbot-container
 
 ---
 
-## Remove Docker Image
+## 8.Remove Docker Image
 
 docker rmi ai-chatbot
 
