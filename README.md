@@ -126,7 +126,6 @@ Expected output:
 
 CONTAINER ID   IMAGE        STATUS       PORTS
 xxxxxxxxxxxx   ai-chatbot   Up           0.0.0.0:5000->5000/tcp
-```
 
 ---
 
@@ -233,6 +232,4 @@ The chatbot provides:
 - Dockerized deployment
 - Flask backend integration
 
-# 📄 License
 
-This project is developed for learning and educational purposes.
