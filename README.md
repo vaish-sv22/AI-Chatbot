@@ -28,26 +28,6 @@ An AI-powered chatbot built using **Python**, **Flask**, **Google Gemini AI API*
 
 ---
 
-## 📁 Project Structure
-
-
-AI-Chatbot/
-│── app.py
-│── requirements.txt
-│── Dockerfile
-│── .gitignore
-│── README.md
-│
-├── templates/
-│     └── index3.html
-│
-└── static/
-      ├── style3.css
-      └── script3.js
-
-
----
-
 # ⚙️ Installation
 
 ## Step 1: Clone the Repository
