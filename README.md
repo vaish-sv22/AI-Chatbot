@@ -1,10 +1,10 @@
-# 🤖 AI Chatbot using Flask & Gemini AI
+# AI Chatbot using Flask & Gemini AI
 
 An AI-powered chatbot built using **Python**, **Flask**, **Google Gemini AI API**, **HTML**, **CSS**, and **JavaScript**. The chatbot accepts user queries through a web interface and generates intelligent responses using Google's Gemini AI model.
 
 ---
 
-## 📌 Features
+## Features
 
 - AI-powered chatbot using Gemini AI
 - Flask backend
@@ -16,7 +16,7 @@ An AI-powered chatbot built using **Python**, **Flask**, **Google Gemini AI API*
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.12
 - Flask
@@ -28,7 +28,7 @@ An AI-powered chatbot built using **Python**, **Flask**, **Google Gemini AI API*
 
 ---
 
-# ⚙️ Installation
+# Installation
 
 ## Step 1: Clone the Repository
 
@@ -78,7 +78,7 @@ http://localhost:5000
 
 ---
 
-# 🐳 Docker Deployment
+# Docker Deployment
 
 ## 1.Build Docker Image
 
@@ -134,7 +134,7 @@ docker rmi ai-chatbot
 
 ---
 
-# ☁️ AWS EC2 Deployment
+# AWS EC2 Deployment
 
 1. Launch an Ubuntu EC2 Instance.
 2. Connect using SSH.
@@ -147,7 +147,7 @@ docker rmi ai-chatbot
 
 ---
 
-# 🔄 Application Workflow
+# Application Workflow
 
 User
 
@@ -178,7 +178,7 @@ Browser Chat Interface
 
 ---
 
-# 📦 Requirements
+# Requirements
 
 - Python 3.12+
 - Flask
@@ -189,7 +189,7 @@ Browser Chat Interface
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - User Authentication
 - Chat History
@@ -202,7 +202,7 @@ Browser Chat Interface
 
 ---
 
-# 📸 Output
+# Output
 
 The chatbot provides:
 
