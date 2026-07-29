@@ -189,19 +189,6 @@ Browser Chat Interface
 
 ---
 
-# Future Enhancements
-
-- User Authentication
-- Chat History
-- Voice Chat
-- Database Integration
-- Multi-language Support
-- Dark Mode
-- AWS Cloud Deployment
-- HTTPS Support
-
----
-
 # Output
 
 The chatbot provides:
